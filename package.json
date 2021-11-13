@@ -1,10 +1,10 @@
 {
-  "name": "@zxing/ngx-scanner",
-  "version": "1.0.0",
+  "name": "@rsweeten/ngx-scanner",
+  "version": "3.2.0",
   "homepage": "https://github.com/zxing-js/ngx-scanner#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zxing-js/ngx-scanner.git"
+    "url": "git+https://github.com/zxing-js/ngx-scanner.git"
   },
   "authors": [
     {
@@ -92,5 +92,6 @@
   "collective": {
     "type": "opencollective",
     "url": "https://opencollective.com/zxing-js"
-  }
+  },
+  "description": "Zxing Scanner component"
 }
