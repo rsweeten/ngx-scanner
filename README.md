@@ -30,6 +30,9 @@ Angular Barcode/QR-Code scanner component.
 </div>
 
 <br>
+## N.B.
+
+THis is really just a personal fork for times when I need releases with fixes quickly. The maintained version is still over at @zxing-js  
 
 ## Demo
 
